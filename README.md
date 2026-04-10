@@ -11,3 +11,5 @@ Key takeaway: most customers fall into “average” or “potentially loyal” 
 
 This kind of segmentation helps you define which customers need a retention campaign and which ones you can deprioritize in your marketing budget: focus on high-value and potentially loyal customers, while reducing retention spend on low-value segments.
 
+#### Results:
+![results](results.png) 
